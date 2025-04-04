@@ -9,143 +9,21 @@
         <Filename Value="delObjFolder.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="16"/>
-        <CursorPos X="33" Y="37"/>
+        <TopLine Value="11"/>
+        <CursorPos X="27" Y="11"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="C:\lazarus\components\lazutils\lazfileutils.pas"/>
         <UnitName Value="LazFileUtils"/>
-        <EditorIndex Value="1"/>
-        <TopLine Value="626"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="625"/>
         <CursorPos Y="583"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="4" Column="3"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="10" Column="30"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="6" Column="33"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="26" Column="12"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="23" Column="46" TopLine="4"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="26" Column="45" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="27" Column="10" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="32" Column="10" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="24" Column="10" TopLine="5"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="28" Column="8" TopLine="4"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="32" Column="13" TopLine="6"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="19" Column="27" TopLine="6"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="32" Column="9" TopLine="6"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="31" Column="13" TopLine="6"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="38" Column="6" TopLine="10"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="6" Column="21"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="4" Column="12"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="32" TopLine="15"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="35" Column="20" TopLine="11"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="29" Column="42" TopLine="11"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="42" Column="12" TopLine="11"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="30" Column="54" TopLine="11"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="22" Column="114" TopLine="11"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="28" Column="22" TopLine="11"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus\components\lazutils\lazfileutils.pas"/>
-        <Caret Line="582" TopLine="562"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus\components\lazutils\lazfileutils.pas"/>
-        <Caret Line="583" TopLine="562"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus\components\lazutils\lazfileutils.pas"/>
-        <Caret Line="889" TopLine="869"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="28" Column="22" TopLine="11"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="18" Column="3" TopLine="11"/>
-      </Position>
-      <Position>
-        <Filename Value="delObjFolder.lpr"/>
-        <Caret Line="14" Column="3" TopLine="11"/>
-      </Position>
-    </JumpHistory>
+    <JumpHistory HistoryIndex="-1"/>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes ActiveMode=""/>
